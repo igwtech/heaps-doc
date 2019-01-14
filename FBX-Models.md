@@ -12,6 +12,7 @@ In order to export a FBX model that can be load to HMD, please make sure to:
  * export using `Z`-up and `-Y`-forward axis.
  * export using BakeAnimation, this will make sure your animation is exactly the same it was created.
  * note for 3ds Max and Maya: Use Game Exporter instead of standard Export.
+ * Make sure Units are set to FBX for All (Blender exporter).
 
 # Restrictions
 
